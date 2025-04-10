@@ -1,0 +1,74 @@
+[
+  {
+    "trainId": "rajdhani_express",
+    "trainNo": "12345",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "delhi": "06:00:00",
+      "jaipur": "08:00:00",
+      "mumbai": "12:00:00",
+      "bengaluru": "18:00:00"
+    },
+    "stations": ["delhi", "jaipur", "mumbai", "bengaluru"],
+    "trainInfo": "Train ID: rajdhani_express Train No: 12345"
+  },
+  {
+    "trainId": "shatabdi_express",
+    "trainNo": "67890",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "kolkata": "07:30:00",
+      "bhubaneswar": "11:00:00",
+      "visakhapatnam": "14:30:00",
+      "chennai": "18:00:00"
+    },
+    "stations": ["kolkata", "bhubaneswar", "visakhapatnam", "chennai"],
+    "trainInfo": "Train ID: shatabdi_express Train No: 67890"
+  },
+  {
+    "trainId": "duronto_express",
+    "trainNo": "13579",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 1, 1, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "hyderabad": "06:30:00",
+      "raichur": "09:00:00",
+      "bengaluru": "12:00:00",
+      "mumbai": "18:00:00"
+    },
+    "stations": ["hyderabad", "raichur", "bengaluru", "mumbai"],
+    "trainInfo": "Train ID: duronto_express Train No: 13579"
+  },
+  {
+    "trainId": "dhanbad_express",
+    "trainNo": "24680",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "patna": "05:00:00",
+      "raipur": "08:30:00",
+      "nagpur": "11:00:00",
+      "mumbai": "16:30:00"
+    },
+    "stations": ["patna", "raipur", "nagpur", "mumbai"],
+    "trainInfo": "Train ID: dhanbad_express Train No: 24680"
+  }
+]

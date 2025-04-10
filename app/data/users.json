@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rahul",
+    "password": "rahul294",
+    "hashedPassword": "$2a$10$ygBSv4gGr8Ks4n8vkMez8uQ3uN7yaB/D9rRuY/gNkp5XLGlPnbti6",
+    "ticketsBooked": [],
+    "userId": "U1001"
+  },
+  {
+    "name": "Hargun",
+    "password": "hargun334",
+    "hashedPassword": "$2a$10$kTPE7icxMwlhvAfRD18foehP5QBcA5urLM/sZx1jGbYhr1r/DtNQS",
+    "ticketsBooked": [],
+    "userId": "U1002"
+  },
+  {
+    "name": "Aman",
+    "password": "aman856",
+    "hashedPassword": "$2a$10$6I39njqpeaMagx8hi1LU8O.vnor22YzLp5A0vKDqD0CFuO2qOjxou",
+    "ticketsBooked": [],
+    "userId": "U1003"
+  }
+]

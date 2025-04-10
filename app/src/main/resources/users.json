@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Jasneet",
+    "password": "test123",
+    "hashedPassword": "abc123xyz",
+    "ticketsBooked": [],
+    "userId": "U1001"
+  },
+  {
+    "name": "Jane",
+    "password": "hello456",
+    "hashedPassword": "def456uvw",
+    "ticketsBooked": [],
+    "userId": "U1002"
+  },
+  {
+    "name": "Carlos",
+    "password": "pass789",
+    "hashedPassword": "ghi789rst",
+    "ticketsBooked": [
+      {
+        "ticketId": "T2023",
+        "userId": "U1003",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "dateOfTravel": "2025-04-25",
+        "train": {
+          "trainId": "TR100",
+          "trainNo": "12951",
+          "seats": [
+            [0, 0, 1],
+            [1, 0, 0]
+          ],
+          "stationTimes": {
+            "Delhi": "06:00",
+            "Mumbai": "18:00"
+          },
+          "stations": ["Delhi", "Mumbai"],
+          "trainInfo": "Train ID: TR100 Train No: 12951"
+        }
+      },
+      {
+        "ticketId": "T2025",
+        "userId": "U1003",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "dateOfTravel": "2025-05-01",
+        "train": {
+          "trainId": "TR102",
+          "trainNo": "12621",
+          "seats": [
+            [1, 1],
+            [0, 1]
+          ],
+          "stationTimes": {
+            "Chennai": "08:00",
+            "Hyderabad": "14:00"
+          },
+          "stations": ["Chennai", "Hyderabad"],
+          "trainInfo": "Train ID: TR102 Train No: 12621"
+        }
+      }
+    ],
+    "userId": "U1003"
+  },
+  {
+    "name": "Aisha",
+    "password": "secure001",
+    "hashedPassword": "jkl012mno",
+    "ticketsBooked": [
+      {
+        "ticketId": "T2030",
+        "userId": "U1004",
+        "source": "Pune",
+        "destination": "Nagpur",
+        "dateOfTravel": "2025-04-30",
+        "train": {
+          "trainId": "TR103",
+          "trainNo": "12165",
+          "seats": [
+            [0, 1],
+            [1, 1]
+          ],
+          "stationTimes": {
+            "Pune": "10:00",
+            "Nagpur": "20:00"
+          },
+          "stations": ["Pune", "Nagpur"],
+          "trainInfo": "Train ID: TR103 Train No: 12165"
+        }
+      }
+    ],
+    "userId": "U1004"
+  },
+  {
+    "name": "Liam",
+    "password": "liamPass!",
+    "hashedPassword": "mnp345qrs",
+    "ticketsBooked": [],
+    "userId": "U1005"
+  }
+]
